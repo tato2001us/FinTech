@@ -1,4 +1,4 @@
-# UnitOneAssignment_JuanLopez
+
 Synthetix Case Study
 
 ## Overview and Origin
