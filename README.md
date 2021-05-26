@@ -77,8 +77,11 @@ They already offer an amazing product but its not user friendly so it would incr
 
 * What technologies would this additional product or service utilize?
 
+Youtube
 
 * Why are these technologies appropriate for your solution?
+
+They would work as visual aids or tutorials on how to use the applications.
 
 
 
